@@ -7,4 +7,5 @@
   "popup_height": 250,
   "type": "image"
   "image_path": "https://github.com/smaite/nepali-calendar-ads/blob/main/images/download.jpg?raw=true",
+  "bg_color": "rgba(255, 255, 255, 80)"  // Light semi-transparent
 }
