@@ -1,7 +1,10 @@
 {
-  "show_ads": true
-  "type": "image",
+  "enabled": true,
+  "show_ads": true,
+  "popup_title": "Glorious Trade Hub", 
+  "link": "https://glorioustradehub.com",
+  "popup_width": 350,
+  "popup_height": 250,
+  "type": "image"
   "image_path": "https://github.com/smaite/nepali-calendar-ads/blob/main/images/download.jpg?raw=true",
-  "link": "https://your-website.com"
-  "popup_title": "📱 Electronics & Accessories"
 }
