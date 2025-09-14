@@ -5,8 +5,8 @@
   "link": "https://glorioustradehub.com",
   "popup_width": 350,
   "popup_height": 250,
-  "type": "image"
+  "type": "image",
   "image_path": "https://github.com/smaite/nepali-calendar-ads/blob/main/images/download.jpg?raw=true",
   "bg_color": "rgba(255, 255, 255, 80)",
-  "popup_bg_color": "#ffffff",
+  "popup_bg_color": "#ffffff"
 }
